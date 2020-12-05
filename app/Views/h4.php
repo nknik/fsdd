@@ -36,7 +36,7 @@ h1 {
 
 <p>In this example, the image will float to the right in the paragraph, and the text in the paragraph will wrap around the image.</p>
 
-<div style = "font-weight:bold;font-size:20px;"><img src="<?php echo base_url(); ?>/static/nkk.jpg" alt="nk" /> ">
+<!-- <div style = "font-weight:bold;font-size:20px;"><img src="<?php echo base_url(); ?>/static/nkk.jpg" alt="nk" /> "> -->
 Blosso
 
 Jump to navigationJump to search
